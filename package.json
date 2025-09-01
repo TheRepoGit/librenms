@@ -22,7 +22,7 @@
         "sass-loader": "^12.4.0",
         "tailwindcss": "^4.0.13",
         "vite": "^6.3",
-        "vue-loader": "^15.9.8",
+        "vue-loader": "^17.4.2",
         "vue-template-compiler": "^2.6.14"
     },
     "dependencies": {
